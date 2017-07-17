@@ -3,18 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>Hints</key>
-	<array>
-		<dict>
-			<key>Content</key>
-			<string>Try using autocompletion.</string>
-		</dict>
-		<dict>
-			<key>Content</key>
-			<string>This is the solution:
-    hidden()</string>
-			<key>SpoilerButtonTitle</key>
-			<string>Show Spoiler</string>
-		</dict>
-	</array>
+	<array/>
 </dict>
 </plist>
